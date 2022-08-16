@@ -2,9 +2,9 @@
 A todo list app
 
 
-### General steps to follow when creating a project
+###steps
 
-- Thinking about the UI
+- UI
 - Functionality
 	- Add a TODO
 	- Delete a TODO
